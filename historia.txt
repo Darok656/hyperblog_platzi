@@ -1,0 +1,7 @@
+historia.txt
+
+Esta es la historia de Freddy Vega
+
+Freddy Vega tiene 32 años y nacio en Colombia
+
+Hoy hablaremos de su historia.
